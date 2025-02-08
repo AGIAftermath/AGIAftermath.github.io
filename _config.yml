@@ -20,7 +20,7 @@
 
 title: AGI-Aftermath
 email: agiaftermath@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- Aftermath of the AGI, its effects on economics, society, life # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
