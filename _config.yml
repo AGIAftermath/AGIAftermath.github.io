@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Aftermath of the AGI, its effects on economics, society, life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: AGI_Aftermath
+twitter_username: 2026_agi
 github_username:  agiaftermath
 
 # Build settings
